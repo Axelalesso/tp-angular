@@ -1,0 +1,7 @@
+<h1>productos</h1>
+
+<div>
+        @for(producto of productos; track producto.id){
+            <app-product [nombre]="producto.nombre" [precio]="producto.precio"/>
+        }
+</div>

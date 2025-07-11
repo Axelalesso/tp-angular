@@ -1,0 +1,38 @@
+[
+    {
+        "title":"Sony PlayStation 5 825GB Digital Edition color blanco" ,
+        "price":700,
+        "final_price":699,
+        "discount":30,
+        "thumbnail":"https://http2.mlstatic.com/D_NQ_NP_934494-MLA80620635329_112024-O.webp",
+        "installments":6,
+        "is_same_price_with_intallments":true,
+        "arrives_free":true,
+        "arrives_free_day":"lunes",
+        "id":1
+    },
+    {
+        "title":"Nintendo Switch 32GB Standard color gris y negro 2019" ,
+        "price":400,
+        "final_price":350,
+        "discount":30,
+        "thumbnail":"https://http2.mlstatic.com/D_NQ_NP_963849-MLA74651893030_022024-O.webp",
+        "installments":6,
+        "is_same_price_with_intallments":true,
+        "arrives_free":true,
+        "arrives_free_day":"lunes",
+        "id":2
+    },
+    {
+        "title":"Consola Playstation Ps4 1tb God Of War Ragnarok Bundle" ,
+        "price":200,
+        "final_price":199,
+        "discount":30,
+        "thumbnail":"https://http2.mlstatic.com/D_NQ_NP_940245-MLU78861436937_092024-O.webp",
+        "installments":6,
+        "is_same_price_with_intallments":true,
+        "arrives_free":true,
+        "arrives_free_day":"lunes",
+        "id":3
+    }
+]
