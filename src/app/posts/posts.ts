@@ -28,9 +28,6 @@ export class Posts {
               this.loading = false
             }
           }
-
-
       )
     }
-
   }

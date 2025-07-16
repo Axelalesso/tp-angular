@@ -15,11 +15,6 @@ export class Home {
         id:1
       },
       {
-        nombre:'producto1',
-        precio:10,
-        id:1
-      },
-      {
         nombre:'producto2',
         precio:20,
         id:2
@@ -33,6 +28,11 @@ export class Home {
         nombre:'producto4',
         precio:40,
         id:4
+      },
+      {
+        nombre:'producto5',
+        precio:50,
+        id:5
       }
     ]
 }

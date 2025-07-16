@@ -19,7 +19,7 @@ export interface ProductInterface {
   providedIn: 'root'
 })
 export class ProductsService {  // <- Renombrado correctamente
-  private productsURL = 'assets/products-data.json';
+  private productsURL = '/products-data.json';
 
   constructor(private http: HttpClient) {}
 
